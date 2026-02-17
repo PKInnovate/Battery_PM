@@ -8,17 +8,17 @@ Battery failures lead to unplanned downtime, safety risks, and high replacement 
 This system shifts maintenance from **reactive** to **predictive**.
 
 ## System Architecture
-Controller / BMS
-↓
-CAN Data + DBC Decode
-↓
-Signal Storage (NoSQL)
-↓
-Feature Engineering & Analytics
-↓
-Analytics Database (SQL)
-↓
-Dashboard & Alerts
+Controller / BMS <br>
+↓<br>
+CAN Data + DBC Decode <br>
+↓ <br>
+Signal Storage (NoSQL) <br>
+↓ <br>
+Feature Engineering & Analytics <br>
+↓ <br>
+Analytics Database (SQL) <br>
+↓ <br>
+Dashboard & Alerts <br>
 
 
 ## Key Features
