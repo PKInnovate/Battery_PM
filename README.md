@@ -1,5 +1,5 @@
 # Battery Predictive Maintenance System
-*<H1> Author: Prakash<H1>
+*<H1> Author: Prakash<H1>*
 ## Overview
 This project implements a **predictive maintenance (PdM) system for battery packs** using data from embedded controllers and BMS units. It decodes CAN data via DBC files, analyzes battery health, and predicts degradation and failure risks to enable proactive maintenance.
 
