@@ -1,5 +1,14 @@
 # Battery Predictive Maintenance System
 *<H2> Author: Prakash<H2>*
+
+## Environment Setup
+
+1. Clone the repository
+2. Create and activate a virtual environment
+3. Install dependencies using `requirements.txt`
+4. Configure environment variables in `.env`
+5. Run the application
+
 ## Overview
 This project implements a **predictive maintenance (PdM) system for battery packs** using data from embedded controllers and BMS units. It decodes CAN data via DBC files, analyzes battery health, and predicts degradation and failure risks to enable proactive maintenance.
 
