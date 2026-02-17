@@ -1,20 +1,30 @@
-# Virtual environment
+# -------------------------
+# Python virtual environment
+# -------------------------
 venv/
 .venv/
 
-# Environment variables (secrets)
+# -------------------------
+# Environment variables / secrets
+# -------------------------
 .env
 
-# Notebook environment
+# -------------------------
+# Jupyter
+# -------------------------
 .ipynb_checkpoints/
 
+# -------------------------
 # Python cache
+# -------------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# OS files
+# -------------------------
+# OS / Editor noise
+# -------------------------
 .DS_Store
 Thumbs.db
-
-# VS Code (optional)
 .vscode/
